@@ -1,6 +1,6 @@
 title: Xukun Cai
 # tagline: Two roads diverged in woods, I took the one less traveled by.
-# description: Two roads diverged in woods, I took the one less traveled by.
+description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://xukuncai1998.github.io
 
@@ -8,7 +8,7 @@ url: https://xukuncai1998.github.io
 owner:
   name: Xukun Cai
   avatar: ikun.jpg
-#  bio:
+ # bio:
   email: hanlin.cai@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
