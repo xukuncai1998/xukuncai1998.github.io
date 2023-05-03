@@ -6,9 +6,9 @@ url: https://xukuncai1998.github.io
 
 # Owner/author information
 owner:
-  name: Xukun Cai
-  # avatar: ikun.jpg
- # bio:
+  name: "Xukun Cai"
+  avatar: "ikun.jpg"
+  bio: "Test page for iKun."
   email: hanlin.cai@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
@@ -24,7 +24,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: ""
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
