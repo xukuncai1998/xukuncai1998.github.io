@@ -1,13 +1,13 @@
 title: Xukun Cai
-# tagline: Two roads diverged in woods, I took the one less traveled by.
-description: Two roads diverged in woods, I took the one less traveled by.
+tagline: Test page for iKun.
+description: Test page for iKun.
 #Comment out url when working locally to resolve base urls correctly
 url: https://xukuncai1998.github.io
 
 # Owner/author information
 owner:
   name: Xukun Cai
-  avatar: ikun.jpg
+  # avatar: ikun.jpg
  # bio:
   email: hanlin.cai@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
