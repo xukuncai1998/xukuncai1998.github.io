@@ -4,22 +4,20 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://xukuncai1998.github.io/caixukun.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+**Xukun Cai**, also known as **Kun** or **蔡徐坤**, is a Chinese singer, rapper, songwriter, and actor. He gained fame as the winner of the Chinese reality TV show "Idol Producer" in 2018. Xukun is known for his versatile music style and his ability to perform in multiple languages. He has released popular singles and albums, and won numerous awards for his music. He is also popular on social media, with millions of followers on Weibo and Instagram.
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+## Honor & Awards
 
-## Research Interests
+Xukun Cai has achieved a lot in his young career. He first gained widespread attention as the winner of the Chinese reality TV show "Idol Producer" in 2018. Since then, he has released several popular singles and albums, and his music has won numerous awards. He has been named Best Newcomer at the Tencent Music Entertainment Awards, Album of the Year at the NetEase Cloud Music Awards, and Artist of the Year at the Asia Artist Awards, among others. Xukun has also been recognized for his acting work, and he is a sought-after brand ambassador for many companies.
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+## News & Updates
 
-## News and Updates
-
-- **I'm looking for a Summer Research Intern Position (From June to Sep).**
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published! Welcome to contribute!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the 2021-2022 China National Scholarship (top 1%).
-- **Jun 2022：**Online Research Intern at Cambridge Centre for the Integration of Science, Technology and Culture, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-
+- 2021: Won the All-Round Artist of the Year award at the iQiyi All-Star Carnival
+- 2020: Released his second album "Awaken"
+- 2020: Named Artist of the Year at the Asia Artist Awards
+- 2019: Won the Album of the Year award at the NetEase Cloud Music Awards
+- 2019: Released his debut album "1"
+- 2018: Named Best Newcomer at the Tencent Music Entertainment Awards
+- 2018: Won the Chinese reality TV show "Idol Producer" and debuted as a solo artist
