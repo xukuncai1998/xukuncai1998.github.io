@@ -7,7 +7,7 @@ url: https://xukuncai1998.github.io
 # Owner/author information
 owner:
   name: Xukun Cai
-  avatar: xukun.jpg
+  avatar: ikun.jpg
 #  bio:
   email: hanlin.cai@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -65,13 +65,6 @@ kramdown:
   #   coderay_css: class
 
 
-# disqus settings:
-disqus:
-  shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
